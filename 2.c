@@ -8,6 +8,6 @@ int main()
 {
   printf("hello pw\n");
   printf("hello cw\n");
-  printf("mahesh\nsuryavanshi")
+  printf("mahesh\nsuryavanshi");
   return 0;
 }
